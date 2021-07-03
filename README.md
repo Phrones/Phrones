@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...frontend
 - 🌱 I’m currently learning ...HTML & CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ruthagabiuke19@gmail.com
+- 📫 How to reach me ...ruthagabiuke19@gmail.com 09012284824
 
 <!---
 Phrones/Phrones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
